@@ -1,0 +1,23 @@
+{
+  "name": "parcel-issue-7413",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "build": "parcel build src/index.html"
+  },
+  "browserslist": "> 0.5%, last 5 versions, since 2015, not dead",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukkaW/parcel-issue-7413.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SukkaW/parcel-issue-7413/issues"
+  },
+  "homepage": "https://github.com/SukkaW/parcel-issue-7413#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
